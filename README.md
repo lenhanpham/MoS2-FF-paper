@@ -32,3 +32,15 @@ the Chem. Sci. paper, togetther with paramters in the Chem. Comm. one, make
 MoSu-CHARMM complete. 
 
 ## Users need to pay attention to setting paramters such as vdw cutoff and rcoulomb when using MoSu-CHARRM. These paramters are mentioned in two papers above.
+
+# Please cite these two publications if you use MoSu-CHARMM in your works
+
+**1.**  "**Pham, L. N.; Walsh, T. R.** *Force Fields for Water–Surface Interaction: Is
+Reproduction of the Experimental Water Contact Angle Enough?* **Chem. Commun.**
+***2021***, 57 (27), 3355–3358.
+[doi:10.1039/d1cc00426c](https://doi.org/10.1039/D1CC00426C)".
+
+**2.** **Pham, L. N.; Walsh, T.** *Predicting Biomolecule Adsorption
+on MoS<sub>2</sub> Nanosheets with High Structural Fidelity.* **Chem. Sci.** ***2022***
+[doi:10.1039/D1SC06814H](https://doi.org/10.1039/D1SC06814H)
+
