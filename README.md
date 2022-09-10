@@ -18,6 +18,8 @@ if you are using this set of data.
 
 # Usage of MoSu-CHARMM Force Field 
 
+**MoSu-CHARMM** for GROMACS users can be obtained from this repository https://github.com/lenhanpham/MoSu-CHARMM
+
 **MoSu-CHARMM** is a high-fidelity force field for simulation interaction
 between biomolecules (peptides and proteins) & all possible organic compounds
 and the MoS<sub>2</sub> surface in aqueous media. MoSu-CHARMM can be used for
